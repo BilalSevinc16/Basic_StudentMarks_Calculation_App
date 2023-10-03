@@ -1,16 +1,11 @@
-# student_marks_calculation_app
+# Student Marks Calculation App
 
-A new Flutter project.
+Application that Calculates Student Grades
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Basic_StudentMarks_Calculation_App/assets/146417248/fac26268-422e-4209-b6fc-3bc07c589dc2)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Basic_StudentMarks_Calculation_App/assets/146417248/289ca469-0147-49b4-a05d-e8440c1d52ae)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/BilalSevinc16/Basic_StudentMarks_Calculation_App/assets/146417248/0ca5d10c-a08a-493d-9bbc-4c56dd69ff6c)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/BilalSevinc16/Basic_StudentMarks_Calculation_App/assets/146417248/9bf346d1-b4cb-473e-ac85-84f1877e1763)
