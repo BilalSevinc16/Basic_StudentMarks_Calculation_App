@@ -1,4 +1,4 @@
-# Basic Student Marks Calculation App
+# Simple Student Marks Calculation App
 
 Application that Calculates Student Grades
 
